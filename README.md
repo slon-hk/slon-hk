@@ -17,5 +17,6 @@ I am a computer engineering student.
 - Telegram: [@Slon_hk](https://t.me/Slon_hk)
 - GitHub: [slon-hk](https://github.com/slon-hk)
 
-## GitHub Stats
-![Leonid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slon-hk&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slon-hk&layout=compact&theme=radical) ![GitHub Snake](https://github.com/your-username/your-repo-name/blob/output/github-contribution-grid-snake.svg)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=slon-hk&color=blue)
