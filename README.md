@@ -24,7 +24,4 @@ I like writing clean code, learning new tools, and solving practical problems.
 ---
 
 ## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slon-hk&layout=compact&theme=radical)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=slon-hk&color=blue)
