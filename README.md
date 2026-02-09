@@ -7,12 +7,7 @@ I like writing clean code, learning new tools, and solving practical problems.
 
 ## 🛠 Skills
 
-- **Programming:** Python  
-- **Web:** HTML, CSS  
-- **Databases:** SQLite3  
-- **Tools:** Git  
-- **Libraries:** NumPy  
-- **Automation & Parsing:** Selenium, BeautifulSoup (bs4)
+-WIP
 
 ---
 
